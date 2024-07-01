@@ -1,1 +1,3 @@
 # Library-Database-Management-System
+
+The aim of this project is to develop and deploy a database management system to aid in the organization and management of a public library. This system will help the library staff to manage their library resources, including books, magazines, digital media, and other materials. Moreover, it will provide a streamlined approach to accessing library member’s information and facilitate the borrowing and tracking of library materials. The library management system will prioritize data integrity and aim to reduce redundancy for both the library staff and members.
